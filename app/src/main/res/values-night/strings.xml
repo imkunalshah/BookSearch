@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Books</string>
+    <string name="load_more">Load More</string>
+    <string name="internet_unavailable">Internet Unavailable</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="do_you_want_to_quit_app">Do you want to quit app?</string>
+</resources>
